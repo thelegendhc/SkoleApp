@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lager", {data:[{}],fetch:{},mutations:void 0});
