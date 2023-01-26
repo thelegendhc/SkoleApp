@@ -31,11 +31,15 @@ export default {
             lager: [
                 {
                     name: "Søm",
-                    amount: "10"
+                    amount: "1048"
                 },
                 {
                     name: "Skruer",
-                    amount: "100"
+                    amount: "1100"
+                }
+                {
+                name: "Bolte",
+                amount: "1000"
                 }
             ]
         }
